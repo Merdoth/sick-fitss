@@ -1,7 +1,9 @@
+import Products from '../components/Products';
+
 export default function IndexPage() {
   return (
     <>
-      <p>Hello</p>
+      <p>hererrr</p>
     </>
   );
 }
