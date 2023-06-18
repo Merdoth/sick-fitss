@@ -59,9 +59,10 @@ const NavStyles = styled.ul`
   }
   @media (max-width: 1300px) {
     border-top: 1px solid var(--lightGray);
-    width: 100%;
+    width: auto;
     justify-content: center;
     font-size: 1.5rem;
+    padding: 0 10px;
   }
 `;
 
